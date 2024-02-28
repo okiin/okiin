@@ -10,10 +10,8 @@
   </div> 
 </div>
 
----
-
 <div align="center">
   <a href="https://github.com/okiin">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okiin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okiin&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=okiin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okiin&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
 </div>
