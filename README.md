@@ -7,7 +7,6 @@
   </div> 
 </div>
 <div align="center">
-  <a href="https://github.com/okiin">
-  <img height="170em"src="https://github-readme-stats-igmafive.vercel.app/apiusername=okiin&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/> 
+  <a href="https://github.com/okiin"> 
   <img height="170em"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=okiin&layout=compact&langs_count=&theme=dark&hide_border=true"/>
 </div>
